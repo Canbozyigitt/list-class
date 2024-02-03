@@ -27,7 +27,7 @@ public class Main {
 
         // Listeyi Object[] dizisi olarak geri verir.
         Object[] dizi = liste.toArray();
-        System.out.println("Object dizisinin ilk eleman� : " + dizi[0]);
+        System.out.println("Object dizisinin ilk elemanı : " + dizi[0]);
 
         // Liste veri türünde alt bir liste oluşturdu
         MyList<Integer> altListem = liste.subList(0, 3);
