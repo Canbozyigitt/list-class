@@ -35,7 +35,7 @@ public class Main {
 
         // De�erim listedeki olup olmadığını sorgular
         System.out.println("Listemde 20 değeri : " + liste.contains(20));
-        System.out.println("Listemde 120 de�eri : " + liste.contains(120));
+        System.out.println("Listemde 120 değeri : " + liste.contains(120));
 
         // Listeyi tamamen bo�alt�r ve varsay�lan boyutuna �evirir
         liste.clear();
