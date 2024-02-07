@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println("Liste Durumu : " + (liste.isEmpty() ? "Boş" : "Dolu"));
 
-        // Buldu�u ilk indeksi verir
+        // Bulduğu ilk indeksi verir
         System.out.println("Indeks : " + liste.indexOf(20));
 
         // Bulamazsa -1 döndürür
