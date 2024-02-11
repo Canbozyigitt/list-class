@@ -37,7 +37,7 @@ public class Main {
         System.out.println("Listemde 20 değeri : " + liste.contains(20));
         System.out.println("Listemde 120 değeri : " + liste.contains(120));
 
-        // Listeyi tamamen boşaltır ve varsay�lan boyutuna �evirir
+        // Listeyi tamamen boşaltır ve varsayılan boyutuna �evirir
         liste.clear();
         System.out.println(liste.toString());
 
